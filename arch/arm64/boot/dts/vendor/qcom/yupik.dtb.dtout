@@ -1,0 +1,6 @@
+arch/arm64/boot/dts/samsung/a52/a52sxq/../../../vendor/qcom/yupik-pcie.dtsi:40.3-27: Warning (gpios_property): /soc/qcom,pcie@1c00000:qcom,clkreq-gpio: cell 0 is not a phandle reference
+arch/arm64/boot/dts/samsung/a52/a52sxq/../../../vendor/qcom/yupik-pcie.dtsi:4.27-237.4: Warning (gpios_property): /soc/qcom,pcie@1c00000: Missing property '#gpio-cells' in node /soc/rsc@18200000/rpmh-regulator-ldob6/regulator-pm7325-l6 or bad phandle (referred from qcom,clkreq-gpio[0])
+arch/arm64/boot/dts/samsung/a52/a52sxq/../../../vendor/qcom/yupik-pcie.dtsi:315.3-27: Warning (gpios_property): /soc/qcom,pcie@1c08000:qcom,clkreq-gpio: cell 0 is not a phandle reference
+arch/arm64/boot/dts/samsung/a52/a52sxq/../../../vendor/qcom/yupik-pcie.dtsi:281.27-537.4: Warning (gpios_property): /soc/qcom,pcie@1c08000: Missing property '#gpio-cells' in node /soc/qcom,cpu4-llcc-ddr-lat or bad phandle (referred from qcom,clkreq-gpio[0])
+arch/arm64/boot/dts/samsung/a52/a52sxq/../../../vendor/qcom/yupik-coresight.dtsi:856.12-862.6: Warning (graph_port): /soc/tpda@6c37000/in-ports/port@18: graph node unit address error, expected "1b"
+arch/arm64/boot/dts/samsung/a52/a52sxq/../../../vendor/qcom/yupik-coresight.dtsi:864.12-870.6: Warning (graph_port): /soc/tpda@6c37000/in-ports/port@19: graph node unit address error, expected "1c"
